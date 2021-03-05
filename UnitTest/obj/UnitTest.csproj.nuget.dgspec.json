@@ -1,0 +1,187 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\UnitTest\\UnitTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\BusinessEntitites\\BusinessEntitites.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\BusinessEntitites\\BusinessEntitites.csproj",
+        "projectName": "BusinessEntitites",
+        "projectPath": "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\BusinessEntitites\\BusinessEntitites.csproj"
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\Business\\BusinessLogic.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\Business\\BusinessLogic.csproj",
+        "projectName": "BusinessLogic",
+        "projectPath": "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\Business\\BusinessLogic.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\BusinessEntitites\\BusinessEntitites.csproj": {
+                "projectPath": "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\BusinessEntitites\\BusinessEntitites.csproj"
+              },
+              "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\Data\\Data.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\Data\\Data.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\Data\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\Data\\Data.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\BusinessEntitites\\BusinessEntitites.csproj": {
+                "projectPath": "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\BusinessEntitites\\BusinessEntitites.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\UnitTest\\UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\UnitTest\\UnitTest.csproj",
+        "projectName": "UnitTest",
+        "projectPath": "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\UnitTest\\UnitTest.csproj",
+        "packagesPath": "C:\\Users\\Sneh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sneh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\BusinessEntitites\\BusinessEntitites.csproj": {
+                "projectPath": "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\BusinessEntitites\\BusinessEntitites.csproj"
+              },
+              "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\Business\\BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\Business\\BusinessLogic.csproj"
+              },
+              "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\Data\\Data.csproj"
+              },
+              "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\UnitTest_1\\UnitTest_1.csproj": {
+                "projectPath": "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\UnitTest_1\\UnitTest_1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\UnitTest_1\\UnitTest_1.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\UnitTest_1\\UnitTest_1.csproj",
+        "projectName": "UnitTest_1",
+        "projectPath": "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\UnitTest_1\\UnitTest_1.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\BusinessEntitites\\BusinessEntitites.csproj": {
+                "projectPath": "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\BusinessEntitites\\BusinessEntitites.csproj"
+              },
+              "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\Business\\BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\Business\\BusinessLogic.csproj"
+              },
+              "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Sneh\\source\\repos\\UnitTest_1\\Data\\Data.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

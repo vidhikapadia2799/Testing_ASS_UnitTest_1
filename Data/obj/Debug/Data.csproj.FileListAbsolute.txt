@@ -1,0 +1,14 @@
+C:\Users\Sneh\source\repos\UnitTest_1\Data\bin\Debug\Data.dll.config
+C:\Users\Sneh\source\repos\UnitTest_1\Data\bin\Debug\Data.dll
+C:\Users\Sneh\source\repos\UnitTest_1\Data\bin\Debug\Data.pdb
+C:\Users\Sneh\source\repos\UnitTest_1\Data\bin\Debug\BusinessEntitites.dll
+C:\Users\Sneh\source\repos\UnitTest_1\Data\bin\Debug\EntityFramework.dll
+C:\Users\Sneh\source\repos\UnitTest_1\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sneh\source\repos\UnitTest_1\Data\bin\Debug\BusinessEntitites.pdb
+C:\Users\Sneh\source\repos\UnitTest_1\Data\bin\Debug\EntityFramework.xml
+C:\Users\Sneh\source\repos\UnitTest_1\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sneh\source\repos\UnitTest_1\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Sneh\source\repos\UnitTest_1\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Sneh\source\repos\UnitTest_1\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Sneh\source\repos\UnitTest_1\Data\obj\Debug\Data.dll
+C:\Users\Sneh\source\repos\UnitTest_1\Data\obj\Debug\Data.pdb

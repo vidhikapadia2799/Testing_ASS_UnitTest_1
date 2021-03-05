@@ -1,0 +1,5 @@
+C:\Users\Sneh\source\repos\UnitTest_1\BusinessEntitites\bin\Debug\BusinessEntitites.dll
+C:\Users\Sneh\source\repos\UnitTest_1\BusinessEntitites\bin\Debug\BusinessEntitites.pdb
+C:\Users\Sneh\source\repos\UnitTest_1\BusinessEntitites\obj\Debug\BusinessEntitites.csproj.CoreCompileInputs.cache
+C:\Users\Sneh\source\repos\UnitTest_1\BusinessEntitites\obj\Debug\BusinessEntitites.dll
+C:\Users\Sneh\source\repos\UnitTest_1\BusinessEntitites\obj\Debug\BusinessEntitites.pdb
